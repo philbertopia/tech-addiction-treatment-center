@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo-nav-img {
+    width: 48px;
+}
+
+.max-w {
+    max-width: 700px;
+}
+
+.contact-max-w {
+    max-width: 500px;
+}
+
+.program-max-w {
+    max-width: 1000px;
+}
+
+.bg-clouds {
+    background-image: url("/img/clouds.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-overlay {
+    background-color: rgba(26, 32, 71, 0.8);
+}
+
+.btn {
+    height: 50px;
+    /* font-weight: bold; */
+    font-size: large;
+}
+
+.header-seal {
+    height: 40px;
+}
+
+.img-cloud {
+    width: 100px;
+    display: flex;
+    position: absolute;
+    top: 250px;
+    border-radius: 50%;
+}
+.img-cloud-container {
+    display: flex;
+    justify-content: center;
+}
+.logo-card {
+    width: 100px;
+}
+
+.icon {
+    width: 100px;
+}
+
+.contact-bg {
+    background-color: rgba(26, 32, 71);
+}
+.imgs {
+    width: 100%;
+    object-fit: cover;
+}
+
+.program-w {
+    width: 400px;
+    height: 340px;
+    margin: auto;
+}
+
+.mt-20 {
+    margin-top: 30px;
+}
+
+.recovery-img {
+    width: 100%;
+}
+
+.bg-gray {
+    background-image: linear-gradient(rgb(241, 243, 247, 0),rgb(219, 225, 239)); 
+}
+
+.w-250 {
+    width: 260px;
+}
+
+.cinzel {
+    font-family: 'Cinzel', serif;
+}
+
+.bolder {
+    font-weight: bolder;
+}
+
+.blue-text {
+    color: rgb(25, 67, 159);
+}
